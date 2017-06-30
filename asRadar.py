@@ -1,4 +1,4 @@
-__author__ = 'r0otz-ee'
+
 #
 # https://radar.qrator.net
 # IP networks extractor utility
