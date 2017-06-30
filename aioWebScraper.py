@@ -1,4 +1,4 @@
-__author__ = 'r0otz-ee'
+
 
 # Asyncio web scraper for parallel web download
 #
