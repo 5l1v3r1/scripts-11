@@ -1,4 +1,4 @@
-__author__ = 'isox'
+__author__ = 'r0otz-ee'
 
 # Asyncio web scraper for parallel web download
 #
@@ -11,7 +11,7 @@ __author__ = 'isox'
 # Cloudflare bypass by "aiocfscrape"
 # Progressbar made with TQDM
 #
-# isox@vulners.com
+# 
 
 import asyncio
 import aiohttp
