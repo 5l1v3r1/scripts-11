@@ -1,4 +1,4 @@
-__author__ = 'isox'
+__author__ = 'r0otz-ee'
 #
 # https://radar.qrator.net
 # IP networks extractor utility
@@ -9,7 +9,7 @@ __author__ = 'isox'
 # Output will be:
 # 91.232.230.0/23
 #
-# vulners.com
+# 
 
 import requests
 import netaddr
